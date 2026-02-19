@@ -1,0 +1,7 @@
+sudachipy
+sudachidict_core
+pandas
+langchain-google-genai
+langchain-core
+python-dotenv
+pyyaml

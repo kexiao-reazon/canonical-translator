@@ -1,0 +1,4 @@
+venv/
+legacy_mapping/
+data/
+*__pycache__*

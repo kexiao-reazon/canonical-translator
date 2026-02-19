@@ -1,0 +1,19 @@
+Language:
+  JA:
+    fullname: 'Japanese'
+    source_col_name: 'Japanese(ja)'
+    terminology_col_name: 'ja_term'
+  EN:
+    fullname: 'English'
+    source_col_name: 'English (United States)(en-US)'
+    terminology_col_name: 'en_term'
+  SC:
+    fullname: 'Chinese Simplified'
+    source_col_name: 'Chinese (Simplified)(zh-CN)'
+    terminology_col_name: 'cn_term'
+  TC:
+    fullname: 'Chinese Traditional'
+    source_col_name: 'Chinese (Traditional)(zh-TW/zh-HK)'
+    # Note: We'll use cn_term as a base if tc_term is missing, 
+    # but defining it here for future-proofing.
+    terminology_col_name: 'tc_term'
